@@ -5,4 +5,4 @@ Fast-Forward Merge
 
 Kondisi: Branch main tidak punya commit baru sejak kamu membuat branch fitur.
 
-Hasil: Git hanya perlu "memajukan" penanda branch main ke posisi terbaru branch fiturmmu. Sangat bersih dan cepat.
+Hasil: Git hanya perlu "memajukan" penanda branch main ke posisi terbaru branch fiturmmu. Sangat bersih dan cepat..
